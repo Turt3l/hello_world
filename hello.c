@@ -11,7 +11,7 @@ int main(int argc, string argv[])
 
         //converts argv to int
         int key = atoi(argv[1]);
-        //asks for plain text
+        //plain text
         string plaintext = "hello world!";
         printf("original text: %s", plaintext);
         printf("\n");
